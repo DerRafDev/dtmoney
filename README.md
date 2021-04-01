@@ -1,9 +1,10 @@
 # dtMoney
 
+This application is a Money tracker that allows you to track your income and expenses, it was created using ReactJS, Polished, Axios, and also using the MirageJS as a Fake API.
 
 ## Objectives 📎
 
-The objective of this application is for learning better about React Hooks and use it with Axios and a Fake API to understand better practices of Design Patterns.
+The objective of this application is for learning better about React Hooks and use it with Axios and a Fake API to understand better practices of Design Patterns. In this Application i also learned how to create my own Hook and how Hooks work better.
 
 ## Techologies 🚀
 
@@ -23,13 +24,16 @@ Then, to start the application:
 
 ## Result 🖥️
 
-# Main Page
+### Main Page
 ![alt text]()
 
-# New transaction - deposit
+### New transaction - deposit
 ![alt text]()
 
-# New transaction - withdraw
+### New transaction - withdraw
+![alt text]()
+
+### Final Result
 ![alt text]()
 
 ## Contact 📞
